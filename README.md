@@ -242,8 +242,7 @@ A scheduling & execution system with a Next.js dashboard — create tasks, confi
 <a href="https://www.linkedin.com/in/abhishek312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhi3122004ak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://codolio.com/profile/Abhicodolio1"><img src="https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<!-- Portfolio — swap in your URL once live:
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+<a href="https://www.abhishek-k.me/"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-555?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
