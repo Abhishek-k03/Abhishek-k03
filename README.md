@@ -156,7 +156,7 @@ Specialist · peak 1585
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek-k03&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&disable_animations=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek-k03&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" />
 
-<img height="165" src="https://streak-stats.demolab.com?user=Abhishek-k03&hide_border=true&disable_animations=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=Abhishek-k03&hide_border=true&disable_animations=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
 
 </div>
 
