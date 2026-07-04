@@ -1,24 +1,30 @@
 <!-- Abhishek Kumar · GitHub Profile -->
-
 <div align="center">
 
 # Abhishek Kumar
 
-<a href="https://github.com/Abhishek-k03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Backend+Engineer+%C2%B7+AI+Systems+Developer;Engineering+durable%2C+scalable+backend+infrastructure;RAG+%C2%B7+Vector+Search+%C2%B7+LLM+Orchestration;Grounded+AI%2C+from+retrieval+to+citation" alt="Backend Engineer · AI Systems Developer" />
+### Backend Engineer • AI Systems • Machine Learning
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=FastAPI+%7C+Django+%7C+Python;RAG+%7C+Vector+Search+%7C+LLMs;Storage+Engines+%7C+WAL+%7C+mmap;Building+reliable+developer+tools" />
+
+<br>
+
+<a href="https://www.abhishek-k.me">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
+</a>
+<a href="https://www.linkedin.com/in/abhishek312">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:abhi3122004ak@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
-<p><b>Backend Engineering&nbsp; ·&nbsp; AI Systems&nbsp; ·&nbsp; Applied Machine Learning</b></p>
-
-Final-year Computer Science @ IIIT Sonepat — engineering durable backend<br/>
-infrastructure and AI systems that stay grounded in real sources.
-
-<a href="https://www.linkedin.com/in/abhishek312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://codolio.com/profile/Abhicodolio1"><img src="https://img.shields.io/badge/Codolio-6366F1?style=flat-square&logo=codeforces&logoColor=white" alt="Codolio" /></a>&nbsp;
-<a href="https://www.abhishek-k.me/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="mailto:abhi3122004ak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
 </div>
+
+---
+
+> Final-year Computer Science student at **IIIT Sonepat**  
+> Building backend systems, AI applications, and developer tools.
 
 ## About
 
