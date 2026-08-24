@@ -62,11 +62,12 @@ Scheduling and execution service with cron-configured periodic jobs and a dashbo
 </tr>
 </table>
 
-## Competitive Programming
+## Coding Profile
 
 <div align="center">
 
-<a href="https://codolio.com/profile/Abhicodolio1"><img src="./codolio-card.png" width="340" alt="Codolio profile — LeetCode 1899 (Knight, peak 1949, 42 contests), CodeChef 1608 (3 star, 7 contests), Codeforces 1585 (Specialist, 6 contests). ~900 problems solved across 259 active days and 55 contests." /></a>
+<a href="https://codolio.com/profile/Abhicodolio1"><img src="./CodoCard.png" height="200" alt="Codolio profile card — LeetCode 1899 (Knight, peak 1949, 42 contests), CodeChef 1608 (3 star, 7 contests), Codeforces 1585 (Specialist, 6 contests). ~900 problems solved across 259 active days and 55 contests." /></a>
+<a href="https://codolio.com/profile/Abhicodolio1"><img src="./devCard.png" height="200" alt="Codolio dev card — problem-solving breakdown by topic and difficulty." /></a>
 
 </div>
 
